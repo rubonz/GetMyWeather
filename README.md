@@ -1,1 +1,3 @@
-This is a small project to show the weather for a specific city.
+# GetMyWeather
+
+GetMyWeather is working with OpenWeather API [OpenWeather API](https://openweathermap.org/api) in Golang and Rust.
